@@ -8,13 +8,8 @@ Hello! I'm Chauu Nhat Duyy, a passionate young programmer from Vietnam. I love e
 -🎮 Gaming: I'm a gamer at heart and enjoy playing a variety of video games.
 -☕ Coffee: A good cup of coffee is my perfect companion while coding and reading.
 -I believe in continuous learning and staying curious about the world around me. Let's connect and share our experiences!
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ChauuNhatDuyyIT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChauuNhatDuyyIT&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChauuNhatDuyyIT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ChauuNhatDuyyIT&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 ## 🌐Socials
