@@ -1,13 +1,13 @@
 # 💫About Me :
 Hello! I'm Chauu Nhat Duyy, a passionate young programmer from Vietnam. I love exploring the vast and ever-evolving world of technology. Besides coding, here are a few things I enjoy:
 
--🏀 Sports: I'm an avid sports enthusiast, especially soccer and volleyball./n
--🎵 Music: I have a diverse taste in music, ranging from classic rock to electronic./n
--🎬 Movies: I enjoy watching movies from various genres, and I'm always up for a good film./n
--📚 Reading: I love delving into interesting books, both fiction and non-fiction./n
--🎮 Gaming: I'm a gamer at heart and enjoy playing a variety of video games./n
--☕ Coffee: A good cup of coffee is my perfect companion while coding and reading./n
--I believe in continuous learning and staying curious about the world around me. Let's connect and share our experiences!/n
+-🏀 Sports: I'm an avid sports enthusiast, especially soccer and volleyball.
+-🎵 Music: I have a diverse taste in music, ranging from classic rock to electronic.
+-🎬 Movies: I enjoy watching movies from various genres, and I'm always up for a good film.
+-📚 Reading: I love delving into interesting books, both fiction and non-fiction.
+-🎮 Gaming: I'm a gamer at heart and enjoy playing a variety of video games.
+-☕ Coffee: A good cup of coffee is my perfect companion while coding and reading.
+-I believe in continuous learning and staying curious about the world around me. Let's connect and share our experiences!
 
 
 
